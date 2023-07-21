@@ -1,0 +1,18 @@
+.pat {
+  background-size: cover;
+  background-origin: border-box;
+}
+
+.text-pat {
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+}
+
+.ina1 {
+  background-image: url('./patina_1_sm.png');
+}
+
+.ina2 {
+  background-image: url('./patina_2.png');
+}
